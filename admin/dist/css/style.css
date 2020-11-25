@@ -1,0 +1,38 @@
+.delete-option ul{
+	padding: 0;
+	margin: 0;
+}
+.delete-option ul li{
+	list-style: none;
+	display: inline;
+}
+.table-img{
+	width: 40px;
+	height: 40px;
+	border: 1px solid #ddd;
+	border-radius: 50%;
+}
+.form-img{
+	display: block;
+	width: 80px;
+	height: 80px;
+	border: 2px solid #ddd;
+	margin-bottom: 15px;
+}
+.form-post-img{
+	display: block;
+	width: 225px;
+	height: 120px;
+	border: 2px solid #ddd;
+	margin-bottom: 15px;
+}
+.user-profile-img{
+	display: block;
+	width: 140px;
+	height: 140px;
+	border: 2px solid #ddd;
+	margin-bottom: 15px;
+}
+.card-title{
+	color: #007bff;
+}
